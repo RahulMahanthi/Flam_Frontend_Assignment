@@ -16,7 +16,6 @@ A modern, feature-rich event calendar application built with React that provides
 
 ## 🚀 Demo
 
-![Event Calendar Screenshot](screenshot.png)
 
 ## 🛠️ Technologies Used
 
