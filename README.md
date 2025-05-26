@@ -15,8 +15,7 @@ A modern, feature-rich event calendar application built with React that provides
 - **🎨 Category Colors** - Visual organization with color-coded event categories
 
 ## 🚀 Demo
-
-
+   https://sparkly-genie-ce7352.netlify.app/
 ## 🛠️ Technologies Used
 
 - **React 18** - Modern React with hooks
